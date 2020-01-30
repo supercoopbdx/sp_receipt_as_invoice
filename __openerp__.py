@@ -3,7 +3,7 @@
     'name': "SP Receipt as invoice",
     'summary': "Supercoop - Custom POS receipt",
     'description': """
-    POS printed receipt display:
+    POS printer receipt displays:
         - The customer name.
         - The "invoice" mention.
     """,
