@@ -1,9 +1,9 @@
 # coding: utf-8
 {
-    'name': "SP POS XmlReceipt",
+    'name': "SP Receipt as invoice",
     'summary': "Supercoop - Custom POS receipt",
     'description': """
-    Displays:
+    POS printed receipt display:
         - The customer name.
         - The "invoice" mention.
     """,
