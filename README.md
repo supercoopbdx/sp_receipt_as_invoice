@@ -1,2 +1,5 @@
 # sp_xmlreport
-Tickets de caisse de supercoop
+Tickets de caisse de supercoop contenant :
+
+- Le nom du client
+- La mention « facture »
